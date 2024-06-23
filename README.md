@@ -3,7 +3,7 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-LiquidBounce skid that is claimed to be custom. There was nothing that I really had to change in the client since the Auth wasn't even referenced 😭 (Paid client and Auth disconnected 🔥).
+LiquidBounce skid that is claimed to be custom. There was nothing that I really had to change in the client since the Auth wasn't even referenced 😭 (Paid client and Auth disconnected 🔥). Also the client usess ZKM 15 crack so I added a Semi deobfed version too 🔥.
 
 # Omg it shows Login!1!1!
 
