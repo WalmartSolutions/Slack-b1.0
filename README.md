@@ -19,7 +19,7 @@ Click login idiot
 
 ??? - Making the client. <br>
 3000IQPlay - Confirming the auth is broken. <br>
-??? - Jar.
+Xoraii - Jar.
 
 # GUI
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/slack-gui.png?raw=true)
